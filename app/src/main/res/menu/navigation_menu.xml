@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_id"
+        android:icon="@drawable/home"
+        android:orderInCategory="1"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/events_id"
+        android:icon="@drawable/event"
+        android:orderInCategory="2"
+        android:title="@string/events" />
+
+    <item
+        android:id="@+id/sponsorship_id"
+        android:icon="@drawable/sponsor"
+        android:orderInCategory="3"
+        android:title="@string/sponsorship" />
+
+    <item
+        android:id="@+id/team_id"
+        android:icon="@drawable/team"
+        android:orderInCategory="4"
+        android:title="@string/team" />
+
+    <item
+        android:id="@+id/profile_id"
+        android:icon="@drawable/profile"
+        android:orderInCategory="5"
+        android:title="@string/profile" />
+
+</menu>

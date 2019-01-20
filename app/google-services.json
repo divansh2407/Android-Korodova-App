@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887486530337",
+    "firebase_url": "https://provenance-83642.firebaseio.com",
+    "project_id": "provenance-83642",
+    "storage_bucket": "provenance-83642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887486530337:android:35e4e3e5f944729d",
+        "android_client_info": {
+          "package_name": "cc.majhirockzz.provenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887486530337-mbvnj0p6275b2g3cbs3c29m0ehlpcgla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cc.majhirockzz.provenance",
+            "certificate_hash": "ba5ad0c109a14ac6a58355a079a2e070201b0b02"
+          }
+        },
+        {
+          "client_id": "887486530337-mr15rokjj6qmpb48cl31ssectgrosjog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtnuNSYApPSkxC-a7_lsEaiUNHcGfKy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887486530337-mr15rokjj6qmpb48cl31ssectgrosjog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
